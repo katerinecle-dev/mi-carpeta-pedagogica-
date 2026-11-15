@@ -1,0 +1,23 @@
+PORTAFOLIO TIC - GOOGLE SITES | CONTENIDOS Y EVIDENCIAS
+===========================================================
+
+Este paquete contiene una maqueta navegable del portafolio, elaborada únicamente con la RÚBRICA.docx y las seis actividades PDF aportadas.
+
+ABRIR LA MAQUETA
+- Abrir index.html. Para navegar por todas las páginas, conservar juntas las carpetas imagenes/ y evidencias/ y el archivo estilos.css.
+
+PARA COLOCARLO EN GOOGLE SITES
+- Ver el archivo aparte GUIA_PORTAFOLIO_PARA_GOOGLE_SITES.docx, que tiene el contenido organizado por páginas.
+- Crear 9 páginas: Inicio, Sesión 1, Sesión 2, Sesión 3, Sesión 4, Sesión 5, Sesión 6, Cierre, Referencias.
+- Copiar los textos, cargar las imágenes de imagenes/ e incorporar los PDF originales desde Google Drive.
+- Las evidencias externas se enlazan dentro de las páginas. Revisar permisos de acceso antes de publicar.
+
+ESTADO DE EVIDENCIAS
+- Sesión 1: línea de tiempo PDF; Sesión 2: organizador visual PDF.
+- Sesión 3: ficha del aula virtual con enlace Classroom.
+- Sesión 4: ficha de GeoGebra con enlace y capturas.
+- Sesiones 5 y 6: diseños ABP, cronograma, ADDIE, TPACK, rúbrica, cuestionario y referencias a documentos compartidos.
+- No se declaran como ejecutadas las encuestas, recaudaciones, la obra ni las evaluaciones previstas.
+- No se pudo determinar en los archivos una licencia Creative Commons concreta de cada recurso ni confirmar la coevaluación real o la participación en la exposición. No se han inventado esos datos.
+
+IMPORTANTE: Este paquete es una maqueta HTML para revisar el resultado y materiales para montar en Google Sites; NO ES un Google Site ya publicado y Google Sites no permite importar este HTML directamente como plantilla completa.
